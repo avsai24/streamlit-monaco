@@ -33,6 +33,7 @@ class MyComponent extends StreamlitComponentBase {
       language: "python",
       theme: "vs-dark",
       automaticLayout: true,
+      fontSize: 18,
     });
 
     this.monacoEditor.onDidChangeModelContent(() => {
@@ -49,7 +50,7 @@ class MyComponent extends StreamlitComponentBase {
 
   render() {
     return (
-      <div style={{ height: "300px", border: "1px solid #ccc" }}>
+      <div style={{ height: "600px", border: "1px solid #ccc" }}>
         <div ref={this.editorContainerRef} style={{ height: "100%", width: "100%" }} />
       </div>
     );
