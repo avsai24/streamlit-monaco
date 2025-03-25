@@ -86,9 +86,9 @@ monaco_editor(
 ```
 
 ---
-![Recommending code](https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png)  
-![CaptenAI Logo](https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png)  
-![CaptenAI Logo](https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png)  
+![Recommending Code]([https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png](https://github.com/avsai24/streamlit-monaco/blob/main/images/Screen%20Shot%202025-03-25%20at%2014.29.49%20pm.png)  
+![Before Execution]([https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png](https://github.com/avsai24/streamlit-monaco/blob/main/images/Screen%20Shot%202025-03-25%20at%2014.30.32%20pm.png)  
+![Result]([https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png](https://github.com/avsai24/streamlit-monaco/blob/main/images/Screen%20Shot%202025-03-25%20at%2014.30.47%20pm.png)  
 
 ---
 
