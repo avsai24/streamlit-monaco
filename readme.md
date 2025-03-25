@@ -86,9 +86,11 @@ monaco_editor(
 ```
 
 ---
-![CaptenAI Logo](images/pic1.png)  
-![CaptenAI Logo](https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png)  
-![CaptenAI Logo](https://github.com/avsai24/CaptenAI_Query_Genius/blob/main/images/Capten_logo_full.png)  
+## Screenshots
+
+![Code Recommended](images/pic1.png)  
+![Before Execution](images/pic2.png)   
+![After Execution](images/pic3.png)  
 
 ---
 
